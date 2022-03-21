@@ -1,0 +1,41 @@
+div{
+    color: black;
+}
+
+.alert-text {
+    color: #ff002b;
+}
+
+#title {
+    color: white;
+}
+
+#Recipe {
+    color: black;
+}
+
+.unread{
+    color: black;
+    background-color: white;
+}
+.read {
+    color:black;
+    background-color: white;
+}
+
+.unread {
+    font-size: small;
+    color: red;
+}
+
+.subsection.header {
+    color: black;
+}
+
+.subsection#preview {
+    color: black;
+}
+
+#all {
+    background-color: black;
+}
